@@ -19,3 +19,5 @@ In the development environment, the mock strategy is used by default. This remov
 ## Licence
 
 [MIT License](LICENCE)
+
+[![Run on Repl.it](https://repl.it/badge/github/alphagov/maslow)](https://repl.it/github/alphagov/maslow)
